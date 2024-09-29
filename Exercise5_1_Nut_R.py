@@ -1,0 +1,10 @@
+x = 100
+y = 10
+plus = x+y
+minus = x-y
+time = x*y
+divine = x/y
+print(x,'+',y,'=',plus)
+print(x,'-',y,'=',minus)
+print(x,'*',y,'=',time)
+print(x,'/',y,'=',int(divine))
